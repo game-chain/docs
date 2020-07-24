@@ -6,5 +6,8 @@
 
 
 [官网](https://xx.com)
-[进入用户手册](/README.md)
+
+[白皮书](https://xx.com)
+
+[用户手册](/README.md)
 
